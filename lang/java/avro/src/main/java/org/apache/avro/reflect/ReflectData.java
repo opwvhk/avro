@@ -547,8 +547,7 @@ public class ReflectData extends SpecificData {
     String name = getNameForNonStringMapRecord(keyType, valueType, keySchema, valueSchema);
     Schema elementSchema = Schema.createRecord(name, null, null, false);
     elementSchema.setFields(Arrays.asList(keyField, valueField));
-    Schema arraySchema = Schema.createArray(elementSchema);
-    return arraySchema;
+    return Schema.createArray(elementSchema);
   }
 
   /*
