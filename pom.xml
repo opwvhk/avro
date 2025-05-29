@@ -92,21 +92,28 @@
       <subscribe>dev-subscribe@avro.apache.org</subscribe>
       <unsubscribe>dev-unsubscribe@avro.apache.org</unsubscribe>
       <post>dev@avro.apache.org</post>
-      <archive>https://mail-archives.apache.org/mod_mbox/avro-dev/</archive>
+      <archive>https://lists.apache.org/list.html?dev@avro.apache.org</archive>
     </mailingList>
     <mailingList>
       <name>Avro Users List</name>
-      <subscribe>users-subscribe@avro.apache.org</subscribe>
-      <unsubscribe>users-unsubscribe@avro.apache.org</unsubscribe>
-      <post>users@avro.apache.org</post>
-      <archive>https://mail-archives.apache.org/mod_mbox/avro-users/</archive>
+      <subscribe>user-subscribe@avro.apache.org</subscribe>
+      <unsubscribe>user-unsubscribe@avro.apache.org</unsubscribe>
+      <post>user@avro.apache.org</post>
+      <archive>https://lists.apache.org/list.html?user@avro.apache.org</archive>
+    </mailingList>
+    <mailingList>
+      <name>Avro Issues List</name>
+      <subscribe>issues-subscribe@avro.apache.org</subscribe>
+      <unsubscribe>issues-unsubscribe@avro.apache.org</unsubscribe>
+      <post>issues@avro.apache.org</post>
+      <archive>https://lists.apache.org/list.html?issues@avro.apache.org</archive>
     </mailingList>
     <mailingList>
       <name>Avro Commits List</name>
       <subscribe>commits-subscribe@avro.apache.org</subscribe>
       <unsubscribe>commits-unsubscribe@avro.apache.org</unsubscribe>
       <post>commits@avro.apache.org</post>
-      <archive>https://mail-archives.apache.org/mod_mbox/avro-commits/</archive>
+      <archive>https://lists.apache.org/list.html?commits@avro.apache.org</archive>
     </mailingList>
   </mailingLists>
 
