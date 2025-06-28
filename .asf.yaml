@@ -33,6 +33,8 @@ github:
     - php
     - python
     - ruby
+  autolink_jira
+    - AVRO
 
   enabled_merge_buttons:
     merge: false
